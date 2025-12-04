@@ -1,0 +1,7 @@
+langchain>=0.2.14
+langchain-community>=0.2.12
+langchain-ollama; extra == "ollama"
+langchain_ollama>=0.1.0
+yfinance>=0.2.40
+matplotlib>=3.8.0
+streamlit>=1.18.0
